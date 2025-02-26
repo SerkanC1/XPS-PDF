@@ -1,0 +1,16 @@
+# Python sanal ortamı
+.venv/
+
+# Python önbellek dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Geçici dosyalar ve klasörler
+temp/
+*.pdf
+*.xps
+
+# IDE dosyaları
+.vscode/
+.idea/
